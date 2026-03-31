@@ -40,7 +40,7 @@ This project focuses on cleaning and transforming unstructured data into a struc
 
 ## 💻 Dashboard
 
-<img src="E_Commerce_Analysis/Screenshots/Dashboard.png" width=" 1200px">
+<img src="E_Commerce_Analysis/Screenshots/Dashboard.png"width=" 1200px">
 
 ### [Sheet File](E_Commerce_Analysis/E_Commerce_DataAnalysis.xlsx)
 
